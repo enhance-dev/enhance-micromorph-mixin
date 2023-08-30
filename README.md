@@ -35,7 +35,7 @@ function MyHeader({ html, state  }) {
 `/browser/index.html`
 
 ```javascript
-    class MyHeaderElement extends MorphdomMixin(CustomElement) {
+    class MyHeaderElement extends MicromorphMixin(CustomElement) {
       constructor() {
         super()
       }
