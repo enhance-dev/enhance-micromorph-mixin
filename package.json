@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/enhance-dev/enhance-micromorph-mixin#readme",
   "devDependencies": {
-    "@enhance/custom-element": "^1.0.1",
+    "@enhance/custom-element": "^1.2.3",
     "@esm-bundle/chai": "^4.3.4-fix.0",
     "@web/test-runner": "^0.17.1",
     "@web/test-runner-playwright": "^0.10.1",
